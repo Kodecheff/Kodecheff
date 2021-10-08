@@ -1,7 +1,7 @@
 <div align="center">
   <h3>Hi there 👋</h3>
 
-I love to [write](https://kodecheff.hashnode.dev) and code
+[iWrite](https://kodecheff.hashnode.dev) and iCode
 </div>
 
 I'm Pascal, a Software Engineer from the East side of Nigeria 🇳🇬 with a strong passion for React and the JavaScript ecosystem at large. I love to learn and share as I go, this means I write technical content whenever I can.
